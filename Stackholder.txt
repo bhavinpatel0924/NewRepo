@@ -1,1 +1,14 @@
+Hi Everyone,
 
+I hope this email finds you well. I am sending this email out because I was working with the Users, Brand, and Receipts data from Fetch Rewards and had some questions about it.
+
+1) I noticed that for all the datasets that there were couple of columns that were missing data. I was wondering if it was missing at random or we didn't have the right entry for it, etc?
+
+2) I also noticed that there was duplicate data and was wondering what the cause could be?
+
+I would love to get a chance to speak with you about it.
+
+Looking forward to hearing from you soon.
+
+Best,
+Bhavin
